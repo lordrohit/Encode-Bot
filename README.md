@@ -16,7 +16,7 @@ To change the ffmpeg profile edit them in [ffmpeg_utils.py](/bot/helper/ffmpeg_u
 
 ### The Easy Way
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeimanPictures/video-encoder-bot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BotZ-TG/Encode-Bot)
 
 #### The Hard Way
 Install the required Python Modules in your machine.
