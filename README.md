@@ -31,12 +31,14 @@ python3 -m bot
 ```
 
 ### Credits
-*Thanks to [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)*
+*Thanks To [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)*
+*Thanks To [Adnan Ahmed's](https://github.com/viperadnan-git/) [Encoder-Bot](https://github.com/viperadnan-git/video-encoder-bot)
+*Thanks To [Heiman-BotZ](https://github.com/HEIMAN-BOTZ/) For Adding Heroku Support
 
 ### [License](./LICENSE)
 
 ```
-Copyright (c) 2021 HEIMAN PICTURES
+Copyright (c) 2021 HEIMAN BOTZ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
